@@ -8,8 +8,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+title {
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Kanit", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   background: #0c0b09;
   color: #fff;
 }
@@ -30,7 +36,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Kanit", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+p {
+  font-size: 30px;
 }
 
 /*--------------------------------------------------------------
